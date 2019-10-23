@@ -1,0 +1,12 @@
+name: gilap_example
+
+channels:
+    - conda-forge
+
+dependencies:
+    - python=3
+    - pyspharm
+    - iris
+    - windspharm
+    - matplotlib
+    - numpy
